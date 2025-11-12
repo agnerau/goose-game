@@ -1,4 +1,4 @@
-# Homework system frontend
+# Homework system game
 
 For my Bachelor Degree project, I developed a **website** and **3D game** to make **homework more engaging** for students. Teachers could assign tests via the website, which students would complete through the 3D game interface.
 
