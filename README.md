@@ -17,10 +17,10 @@ I used the **Unity** game engine and the **FPS Microgame** template to create a 
 
 ## Usage
 
-To run the development server locally:
+To run the development server locally (http://localhost:8080/):
 
 ```bash
-python3 -m http.server 8080
+python3 server.py
 ```
 
 ## Visuals
